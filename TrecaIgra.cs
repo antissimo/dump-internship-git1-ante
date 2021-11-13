@@ -10,7 +10,7 @@ namespace KrizicKruzicTrecaIgra
             Console.WriteLine("Druga osoba ima 0 pobjeda i 0 poraza");
             Console.WriteLine("o| | ");
             Console.WriteLine("x|x| ");
-            Console.WriteLine("o| | ");
+            Console.WriteLine("o|o| ");
         }
     }
 }
